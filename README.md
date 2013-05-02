@@ -17,7 +17,7 @@ shows how the prime numbers up to 10^7 are distributed modulo n. (stats.TimeSeri
 
 <b>2) Conjecture Based on data</b>
 <p>
-I conjecture that there exist infinitely many primes of the form j+15k  where k is an integer and j and 15 are relatively prime.
+I conjecture that there exist infinitely many primes of the form j+15k  where j and k are an integers and j and 15 are relatively prime.
 </p>
 
 <br>
@@ -38,5 +38,9 @@ n=13
 <p>
 <img src=https://dl.dropboxusercontent.com/u/66800298/Histogram%20n13.png alt="some_text">
 </p>
+
+<br>
+
+Based on the data I make the general conjecture that there are infinitely many primes of the form j+kn; where j,k,and n are integers and j and k are relatively prime.
 </p>
 
