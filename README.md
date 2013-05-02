@@ -17,6 +17,6 @@ shows how the prime numbers up to 10^7 are distributed modulo n. (stats.TimeSeri
 
 2) Conjecture Based on data
 <p>
-
+I conjecture that there exist infinitely many primes of the form j+15k  where k is an integer and j and 15 are relatively prime.
 </p>
 
