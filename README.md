@@ -24,6 +24,19 @@ I conjecture that there exist infinitely many primes of the form j+15k  where k 
 
 <b>3) Obtain data for other values of n and make a more general conjecture.</b>
 <p>
-If we look at the histograms for n=10 and especially n=13 we can see the same behavior.
+If we look at the histograms for n=10 and especially n=13 we can see the same behavior: <br>
+
+<br>
+
+n=10
+<p>
+<img src=https://dl.dropboxusercontent.com/u/66800298/Histogram%20n10.png alt="some_text">
+</p>
+<br>
+
+n=13
+<p>
+<img src=https://dl.dropboxusercontent.com/u/66800298/Histogram%20n13.png alt="some_text">
+</p>
 </p>
 
